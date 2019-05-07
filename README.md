@@ -1,8 +1,19 @@
 # Eject On Collision
 
 ## About
+For use inworld in *Second LifeⓇ*.
 
-## License
+This script will eject anyone who is not wearing the same group tag on collision.
+
+## Setup
+- Create a prim
+  - Optional: set the png as the texture
+- Drop the script into the prim
+- Set the prim to the group you want to use
+  - Anyone not wearing the group tag for this group will be ejected
+- Set the prim to land
+
+## License - MIT
 Copyright 2014 MJ Dunn (mjdunnonline@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
